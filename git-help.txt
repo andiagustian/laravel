@@ -2,4 +2,5 @@ git clone <URL>
 git status
 git add 
 git commit
-git push
+git pull - untuk pull kode dar
+git push - push file dari lokal ke server
